@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VizbeeHomeOSKit",
-            path: "./VizbeeHomeOSKit.xcframework"
+            path: "VizbeeHomeOSKit.xcframework"
         ),
     ]
 )
