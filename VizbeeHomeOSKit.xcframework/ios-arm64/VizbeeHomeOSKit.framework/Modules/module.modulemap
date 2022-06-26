@@ -1,0 +1,6 @@
+framework module VizbeeHomeOSKit {
+    umbrella header "VizbeeHomeOSKit.h"
+
+    export *
+    module * { export * }
+}
