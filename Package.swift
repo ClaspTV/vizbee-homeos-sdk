@@ -1,4 +1,4 @@
-// swift-tools-version:5.6
+// swift-tools-version:5.3
 import PackageDescription
 
 let package = Package(
@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VizbeeHomeOSKit",
-            path: "VizbeeHomeOSKit.xcframework"
+            path: "./VizbeeHomeOSKit.xcframework"
         ),
     ]
 )
